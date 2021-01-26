@@ -1,4 +1,4 @@
-package cn.logical.util;
+package cn.jervis.util;
 
 import java.nio.charset.StandardCharsets;
 
